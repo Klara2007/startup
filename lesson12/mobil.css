@@ -1,0 +1,35 @@
+@media(max-width: 600px) {
+	.firstol {
+		display: block;
+		text-align: center;
+	}
+	nav {
+		position: static;
+	}
+	li {
+		padding: 8px 0;
+	}
+	.companyflex {
+		display: block;
+	}
+	.aboutcompany img {
+		width: 100%;
+	}
+	.employees {
+		display: block;
+		width: 100%;
+	}
+	.employees div {
+		width: 100%;
+		margin: 0;
+		padding: 0;
+		width: 90%;
+		margin: 10px auto;
+		text-align: center;
+	}
+	.secondol {
+		display: block;
+		width: 90%;
+		margin: 10px auto;
+	}
+}
